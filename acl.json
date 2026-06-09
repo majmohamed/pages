@@ -1,7 +1,4 @@
 {
-  "hiring-excellence.html": [
-    "*@microsoft.com"
-  ],
   "rl-environments-tutorial.html": [
     "*@microsoft.com"
   ],
@@ -9,17 +6,10 @@
     "*@microsoft.com"
   ],
   "maia-exec-review-may26.html": [
-    "mustafas@microsoft.com"
+    "mustafas@microsoft.com",
+    "majidmohamed@microsoft.com"
   ],
   "slt-hill-climbing-machine.html": [
-    "majidmohamed@microsoft.com",
-    "jofuchs@microsoft.com",
-    "chrisdaly@microsoft.com",
-    "jamescerra@microsoft.com",
-    "paulsoulos@microsoft.com",
-    "mustafas@microsoft.com"
-  ],
-  "post-build-strategy-reset.html": [
     "majidmohamed@microsoft.com",
     "jofuchs@microsoft.com",
     "chrisdaly@microsoft.com",
@@ -36,6 +26,114 @@
     "mustafas@microsoft.com"
   ],
   "azure-pages-setup.html": [
+    "*@microsoft.com"
+  ],
+  "run6-architecture-decision.html": [
+    "majidmohamed@microsoft.com",
+    "jofuchs@microsoft.com",
+    "chrisdaly@microsoft.com",
+    "jamescerra@microsoft.com",
+    "paulsoulos@microsoft.com",
+    "mustafas@microsoft.com",
+    "ksimonyan@microsoft.com"
+  ],
+  "harness-model-mai-strategy.html": [
+    "majidmohamed@microsoft.com",
+    "jofuchs@microsoft.com",
+    "chrisdaly@microsoft.com",
+    "jamescerra@microsoft.com",
+    "paulsoulos@microsoft.com",
+    "mustafas@microsoft.com",
+    "davecitron@microsoft.com",
+    "alifarhadi@microsoft.com"
+  ],
+  "ai-capacity-supply.html": [
+    "majidmohamed@microsoft.com",
+    "jofuchs@microsoft.com",
+    "chrisdaly@microsoft.com",
+    "jamescerra@microsoft.com",
+    "paulsoulos@microsoft.com",
+    "mustafas@microsoft.com"
+  ],
+  "portland-cluster-moves.html": [
+    "*@microsoft.com"
+  ],
+  "1p-rle-environments.html": [
+    "*@microsoft.com"
+  ],
+  "prefill-decode-explainer.html": [
+    "*@microsoft.com"
+  ],
+  "distillation-options-post-build.html": [
+    "majidmohamed@microsoft.com",
+    "jofuchs@microsoft.com",
+    "chrisdaly@microsoft.com",
+    "jamescerra@microsoft.com",
+    "paulsoulos@microsoft.com",
+    "mustafas@microsoft.com"
+  ],
+  "workstreams.html": [
+    "majidmohamed@microsoft.com",
+    "jofuchs@microsoft.com",
+    "chrisdaly@microsoft.com",
+    "jamescerra@microsoft.com",
+    "paulsoulos@microsoft.com",
+    "mustafas@microsoft.com"
+  ],
+  "post-build-strategy-reset.html": [
+    "majidmohamed@microsoft.com",
+    "jofuchs@microsoft.com",
+    "chrisdaly@microsoft.com",
+    "jamescerra@microsoft.com",
+    "paulsoulos@microsoft.com",
+    "mustafas@microsoft.com",
+    "ctibbits@microsoft.com",
+    "ksimonyan@microsoft.com"
+  ],
+  "MAI_6-month-strategy_ModelTraining.html": [
+    "*@microsoft.com"
+  ],
+  "maia-5yr-plan-briefing.html": [
+    "majidmohamed@microsoft.com",
+    "mustafas@microsoft.com",
+    "ksimonyan@microsoft.com"
+  ],
+  "maia-mustafa-briefing.html": [
+    "majidmohamed@microsoft.com",
+    "jofuchs@microsoft.com",
+    "chrisdaly@microsoft.com",
+    "jamescerra@microsoft.com",
+    "paulsoulos@microsoft.com",
+    "mustafas@microsoft.com"
+  ],
+  "next-6-months-strategy.html": [
+    "majidmohamed@microsoft.com",
+    "jofuchs@microsoft.com",
+    "chrisdaly@microsoft.com",
+    "jamescerra@microsoft.com",
+    "paulsoulos@microsoft.com",
+    "mustafas@microsoft.com",
+    "timoschick@microsoft.com"
+  ],
+  "compute-sprint5-c3.html": [
+    "*@microsoft.com"
+  ],
+  "mai-ignite-2026-strategy.html": [
+    "majidmohamed@microsoft.com",
+    "jofuchs@microsoft.com",
+    "chrisdaly@microsoft.com",
+    "jamescerra@microsoft.com",
+    "paulsoulos@microsoft.com",
+    "mustafas@microsoft.com",
+    "alifarhadi@microsoft.com",
+    "ksimonyan@microsoft.com",
+    "davecitron@microsoft.com",
+    "robcromwell@microsoft.com",
+    "timoschick@microsoft.com",
+    "adamsadovsky@microsoft.com",
+    "davidcleary@microsoft.com"
+  ],
+  "sprint5-firmware-discussion.html": [
     "*@microsoft.com"
   ]
 }
