@@ -1,0 +1,146 @@
+[
+  {
+    "hosted": "2026-04-24",
+    "access": "*@microsoft.com",
+    "title": "Hiring Excellence",
+    "filename": "hiring-excellence.html"
+  },
+  {
+    "hosted": "2026-05-01",
+    "access": "*@microsoft.com",
+    "title": "RL Environments Tutorial",
+    "filename": "rl-environments-tutorial.html"
+  },
+  {
+    "hosted": "2026-05-06",
+    "access": "*@microsoft.com",
+    "title": "Project Jarvis",
+    "filename": "project-jarvis.html"
+  },
+  {
+    "hosted": "2026-05-11",
+    "access": "mustafas@microsoft.com",
+    "title": "Maia Exec Review May 26",
+    "filename": "maia-exec-review-may26.html"
+  },
+  {
+    "hosted": "2026-05-13",
+    "access": "StratOps (Maj, Jon, Chris, James, Paul, Mustafa)",
+    "title": "SLT Hill-Climbing Machine - CDT Reset Proposal",
+    "filename": "slt-hill-climbing-machine.html"
+  },
+  {
+    "hosted": "2026-05-13",
+    "access": "StratOps (Maj, Jon, Chris, James, Paul, Mustafa)",
+    "title": "Jay Parikh Reset on Training Needs",
+    "filename": "jay-parikh-training-reset.html"
+  },
+  {
+    "access": "*@microsoft.com",
+    "filename": "azure-pages-setup.html",
+    "hosted": "2026-05-14",
+    "title": "How we got Azure Pages hosting working"
+  },
+  {
+    "access": "StratOps + Karen Simonyan",
+    "filename": "run6-architecture-decision.html",
+    "hosted": "2026-05-14",
+    "title": "Run 6 Architecture Decision - Pressure Testing the Path Forward"
+  },
+  {
+    "filename": "harness-model-mai-strategy.html",
+    "title": "Harness + Model + MAI: where value accrues",
+    "hosted": "2026-05-14",
+    "access": "StratOps + Dave Citron + Ali Farhadi"
+  },
+  {
+    "filename": "ai-capacity-supply.html",
+    "title": "AI Capacity Supply - MW Ramp & Delivery Risk",
+    "hosted": "2026-05-14",
+    "access": "StratOps (Maj, Jon, Chris, James, Paul, Mustafa)"
+  },
+  {
+    "filename": "portland-cluster-moves.html",
+    "title": "Portland cluster migrations: diagnosis from analysing Teams threads",
+    "hosted": "2026-05-15",
+    "access": "All Microsoft"
+  },
+  {
+    "filename": "1p-rle-environments.html",
+    "title": "1P RL Environments - SLT Presentation",
+    "hosted": "2026-05-15",
+    "access": "All Microsoft"
+  },
+  {
+    "filename": "prefill-decode-explainer.html",
+    "title": "Prefill/Decode - The RL Inference Bottleneck",
+    "hosted": "2026-05-18",
+    "access": "All Microsoft"
+  },
+  {
+    "filename": "distillation-options-post-build.html",
+    "title": "Distillation Options Post-Build",
+    "hosted": "2026-05-18",
+    "access": "StratOps"
+  },
+  {
+    "filename": "workstreams.html",
+    "title": "Post-Build Workstreams Overview",
+    "hosted": "2026-05-18",
+    "access": "StratOps"
+  },
+  {
+    "filename": "MAI_6-month-strategy_ModelTraining.html",
+    "title": "Six Month Strategy - Model Size Decisions",
+    "hosted": "2026-05-20",
+    "access": "All Microsoft"
+  },
+  {
+    "filename": "post-build-strategy-reset.html",
+    "title": "Consolidated Post-Build MAI Strategy Reset",
+    "hosted": "2026-05-24",
+    "access": "StratOps + Christine + Karen"
+  },
+  {
+    "filename": "mai-inference-teachin.html",
+    "title": "MAI Production Inference - Detailed Teach-In",
+    "hosted": "2026-05-25",
+    "access": "Owner only"
+  },
+  {
+    "filename": "maia-5yr-plan-briefing.html",
+    "title": "Maia 5-Year Plan - Andrew Wall Email Briefing",
+    "hosted": "2026-05-26",
+    "access": "Maj, Mustafa, Karén"
+  },
+  {
+    "filename": "maia-mustafa-briefing.html",
+    "title": "Maia 5-Year Capacity Plan - Mustafa Briefing",
+    "hosted": "2026-05-27",
+    "access": "StratOps"
+  },
+  {
+    "filename": "next-6-months-strategy.html",
+    "title": "Post-Build Strategy Reset",
+    "hosted": "2026-05-27",
+    "access": "StratOps + Timo Schick"
+  },
+  {
+    "filename": "compute-sprint5-c3.html",
+    "title": "Compute Allocation Moves - C2 Sprint 5 to C3",
+    "hosted": "2026-05-28",
+    "access": "All Microsoft"
+  },
+  {
+    "filename": "mai-ignite-2026-strategy.html",
+    "title": "MAI's 6 month strategy to Ignite 2026",
+    "hosted": "2026-05-29",
+    "access": "StratOps + Ali Farhadi, Karen Simonyan, Dave Citron, Rob Cromwell, Timo Schick, Adam Sadovsky, David Cleary"
+  },
+  {
+    "filename": "sprint5-firmware-discussion.html",
+    "title": "Sprint 5: PHX Firmware + Run 6 Scale Tests - Discussion Brief",
+    "hosted": "2026-05-29",
+    "access": "All Microsoft"
+  }
+]
