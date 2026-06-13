@@ -142,5 +142,29 @@
     "title": "Sprint 5: PHX Firmware + Run 6 Scale Tests - Discussion Brief",
     "hosted": "2026-05-29",
     "access": "All Microsoft"
+  },
+  {
+    "filename": "cross-org-councils.html",
+    "title": "Running Cross-Org Alignment Councils - Best Practices",
+    "hosted": "2026-06-10",
+    "access": "All Microsoft"
+  },
+  {
+    "filename": "org-chart.html",
+    "title": "MAI Org Chart - Live (editable)",
+    "hosted": "2026-06-11",
+    "access": "All Microsoft"
+  },
+  {
+    "filename": "mai-org-chart.html",
+    "title": "MAI Org Chart - C3 Pillars, Workstreams, Squads",
+    "hosted": "2026-06-11",
+    "access": "All Microsoft"
+  },
+  {
+    "filename": "bloom-energy-research.html",
+    "title": "Bloom Energy - What You Need to Know",
+    "hosted": "2026-06-13",
+    "access": "StratOps"
   }
 ]
