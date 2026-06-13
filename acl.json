@@ -135,5 +135,26 @@
   ],
   "sprint5-firmware-discussion.html": [
     "*@microsoft.com"
+  ],
+  "cross-org-councils.html": [
+    "*@microsoft.com"
+  ],
+  "org-chart.html": [
+    "*@microsoft.com"
+  ],
+  "mai-org-chart.html": [
+    "*@microsoft.com"
+  ],
+  "bloom-energy-research.html": [
+    "majidmohamed@microsoft.com",
+    "jofuchs@microsoft.com",
+    "chrisdaly@microsoft.com",
+    "jamescerra@microsoft.com",
+    "paulsoulos@microsoft.com",
+    "mustafas@microsoft.com",
+    "pdhamdhere@microsoft.com",
+    "ksimonyan@microsoft.com",
+    "bhumishah@microsoft.com",
+    "kushaldatta@microsoft.com"
   ]
 }
